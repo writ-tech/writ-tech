@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Moloy.
 
+![Brain](writ-tech/0_JGwwC_d9DONC9KYL.png)
+
 I am currently a thrid year undergrad studying computer science in Tezpur University.
 
 I am a computer vision and blockchain enthusiast. Interested in deep learning and also in robotics.
