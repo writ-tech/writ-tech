@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Moloy!
 
-![Brain](https://github.com/writ-tech/writ-tech/blob/main/GumGum_Cool_03.gif)
+![Brain](https://github.com/writ-tech/writ-tech/blob/main/ezgif.com-gif-maker.gif)
 
 I am currently a thrid year undergrad studying computer science in Tezpur University.
 
