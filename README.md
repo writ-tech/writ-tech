@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Moloy.
 
-![Brain](writ-tech/0_JGwwC_d9DONC9KYL.png)
+![Brain](https://github.com/writ-tech/writ-tech/blob/main/0_JGwwC_d9DONC9KYL.png)
 
 I am currently a thrid year undergrad studying computer science in Tezpur University.
 
