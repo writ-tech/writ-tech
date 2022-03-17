@@ -2,7 +2,7 @@
 <img src="https://github.com/writ-tech/writ-tech/blob/main/ezgif.com-gif-maker.gif" align=right>
 
 
-I am currently a thrid year undergrad studying computer science in Tezpur University.
+I am currently a fourth year undergrad studying computer science in Tezpur University.
 
 I am a computer vision and blockchain enthusiast. Interested in deep learning and also in robotics.
 
